@@ -1,0 +1,14 @@
+artifact_uri: /Users/vivekkatial/Documents/GitHub/presentations/auckland-ml-summit/example/mlruns/0/25550d80ed4046a08eaa53c9df0f9c65/artifacts
+end_time: 1550059378666
+entry_point_name: ''
+experiment_id: 0
+lifecycle_stage: deleted
+name: ''
+run_uuid: 25550d80ed4046a08eaa53c9df0f9c65
+source_name: train.py
+source_type: 4
+source_version: ''
+start_time: 1550059378639
+status: 3
+tags: []
+user_id: vivekkatial
